@@ -1,13 +1,6 @@
 # Dataset
 收集遇到过的数据集
 
-## 数据集分类
-
-### 按照用途
-
-### 按照数据种类
-
-
 ## 数据集列表
 
 - VIIRS DNB 夜光遥感[链接](https://payneinstitute.mines.edu/eog/nighttime-lights/)[](VIRRS)
